@@ -1,0 +1,8 @@
+{
+    "streamer_name": "example_streamer",
+    "output_directory": "./recordings",
+    "quality": "best",
+    "webhook_url": "https://discord.com/api/webhooks/your-webhook-id",
+    "max_recording_duration_hours": 1,
+    "disk_space_threshold_gb": 5
+}
